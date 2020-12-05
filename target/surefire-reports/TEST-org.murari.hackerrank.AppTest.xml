@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.murari.hackerrank.AppTest" time="0.031" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\murar\Idea-workspace\HackerRankProblemSolving\target\test-classes;C:\Users\murar\Idea-workspace\HackerRankProblemSolving\target\classes;C:\Users\murar\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\murar\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_162\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\murar\AppData\Local\Temp\surefire8180121867995729432\surefirebooter3580015457145603247.jar C:\Users\murar\AppData\Local\Temp\surefire8180121867995729432 2020-12-05T17-01-23_998-jvmRun1 surefire9169148568936363001tmp surefire_04745157866560699171tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\murar\Idea-workspace\HackerRankProblemSolving\target\test-classes;C:\Users\murar\Idea-workspace\HackerRankProblemSolving\target\classes;C:\Users\murar\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\murar\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\murar"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_162\jre"/>
+    <property name="basedir" value="C:\Users\murar\Idea-workspace\HackerRankProblemSolving"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\murar\AppData\Local\Temp\surefire8180121867995729432\surefirebooter3580015457145603247.jar"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_162\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_162\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_162-b12"/>
+    <property name="user.name" value="murar"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_162\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\murar\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\murar\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_162"/>
+    <property name="user.dir" value="C:\Users\murar\Idea-workspace\HackerRankProblemSolving"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_162\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\murar\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\murar\bin;C:\Python38\Scripts;C:\Python38;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files\Git\cmd;C:\WINDOWS\System32\OpenSSH;C:\Program Files\Amazon\AWSCLI\bin;C:\curl;C:\Users\murar\AppData\Local\Programs\Python\Python37-32\Scripts;C:\Program Files (x86)\Yarn\bin;C:\Program Files\PuTTY;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\scala\bin;C:\Program Files\Microsoft\Web Platform Installer;C:\Apache24\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs;C:\rtools40\usr\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\program files\d3dgear;C:\program files\d3dgear;C:\Program Files\MySQL\MySQL Shell 8.0\bin;C:\Users\murar\AppData\Local\Programs\Python\Python38-32\Scripts;C:\Users\murar\AppData\Local\Programs\Python\Python38-32;C:\Users\murar\AppData\Local\Microsoft\WindowsApps;C:\Users\murar\apache-maven-3.5.3-bin\apache-maven-3.5.3\bin;C:\Python38\Scripts;C:\Python38;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files\Git\cmd;C:\WINDOWS\System32\OpenSSH;C:\Program Files\Amazon\AWSCLI\bin;C:\curl;C:\Users\murar\AppData\Local\Programs\Python\Python37-32\Scripts;C:\Program Files (x86)\Yarn\bin;C:\Program Files\PuTTY;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\scala\bin;C:\Program Files\Microsoft\Web Platform Installer;C:\Apache24\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs;C:\rtools40\usr\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\program files\d3dgear;C:\program files\d3dgear;C:\Program Files\Java\jdk1.8.0_162\bin&quot;;C:\Users\murar\AppData\Local\Programs\Python\Python37-32;C:\Users\murar\AppData\Local\Programs\Python\Python37-32\Lib\site-packages\pip;C:\Program Files\JetBrains\WebStorm 2018.3.1\bin;C:\Users\murar\AppData\Local\Yarn\bin;C:\Apache24\bin;C:\Users\murar\AppData\Roaming\npm;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.162-b12"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_162\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="org.murari.hackerrank.AppTest" time="0"/>
+</testsuite>
