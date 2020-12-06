@@ -6,6 +6,7 @@ import org.murari.hackerrank.jumpingonclouds.JumpingOnClouds;
 import org.murari.hackerrank.keyboardanddrive.KeyboardandDrive;
 import org.murari.hackerrank.pairofsocks.PairOfSocks;
 import org.murari.hackerrank.repeatedstring.RepeatedString;
+import org.murari.hackerrank.sherlockvalidstr.SherlockandtheValidString;
 
 import java.util.LinkedList;
 import java.util.List;
@@ -41,5 +42,8 @@ public class App {
         int keyboard[]=new int[]{40,50,60};
         int drive[]=new int[]{5,8,12};
         KeyboardandDrive.getMoneySpent(keyboard,drive,60);
+
+        //Sherlock
+        SherlockandtheValidString.SherlockandtheValidString("aabbc");
     }
 }

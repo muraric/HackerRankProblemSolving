@@ -4,44 +4,23 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd979cb8-3389-4a83-8d03-cb07445902c5" name="Default Changelist" comment="Corrected">
-      <change afterPath="$PROJECT_DIR$/.idea/HackerRankProblemSolving.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/murari/hackerrank/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/murari/hackerrank/bitwiseand/BitwiseAnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/murari/hackerrank/comparetriplets/CompareTriplets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/murari/hackerrank/countingvalley/CountingValley.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/murari/hackerrank/filledorders/FiledOrders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/murari/hackerrank/fizzbuzz/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/murari/hackerrank/jumpingonclouds/JumpingOnClouds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/murari/hackerrank/keyboardanddrive/KeyboardandDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/murari/hackerrank/pairofsocks/PairOfSocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/murari/hackerrank/repeatedstring/RepeatedString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/murari/hackerrank/stringanagram/StringAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/murari/hackerrank/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/HackerRankChallenges-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/murari/hackerrank/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/murari/hackerrank/bitwiseand/BitwiseAnd.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/murari/hackerrank/comparetriplets/CompareTriplets.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/murari/hackerrank/countingvalley/CountingValley.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/murari/hackerrank/filledorders/FiledOrders.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/murari/hackerrank/fizzbuzz/FizzBuzz.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/murari/hackerrank/jumpingonclouds/JumpingOnClouds.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/murari/hackerrank/keyboardanddrive/KeyboardandDrive.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/murari/hackerrank/pairofsocks/PairOfSocks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/murari/hackerrank/repeatedstring/RepeatedString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/murari/hackerrank/stringanagram/StringAnagram.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-org.murari.hackerrank.AppTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/org.murari.hackerrank.AppTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/org/murari/hackerrank/AppTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/algorithms.iml" beforeDir="false" />
+    <list default="true" id="dd979cb8-3389-4a83-8d03-cb07445902c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/murari/hackerrank/sherlockvalidstr/SherlockandtheValidString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/murari/hackerrank/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/murari/hackerrank/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/murari/hackerrank/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/murari/hackerrank/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/murari/hackerrank/bitwiseand/BitwiseAnd.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/murari/hackerrank/bitwiseand/BitwiseAnd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/murari/hackerrank/comparetriplets/CompareTriplets.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/murari/hackerrank/comparetriplets/CompareTriplets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/murari/hackerrank/countingvalley/CountingValley.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/murari/hackerrank/countingvalley/CountingValley.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/murari/hackerrank/filledorders/FiledOrders.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/murari/hackerrank/filledorders/FiledOrders.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/murari/hackerrank/fizzbuzz/FizzBuzz.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/murari/hackerrank/fizzbuzz/FizzBuzz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/murari/hackerrank/jumpingonclouds/JumpingOnClouds.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/murari/hackerrank/jumpingonclouds/JumpingOnClouds.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/murari/hackerrank/keyboardanddrive/KeyboardandDrive.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/murari/hackerrank/keyboardanddrive/KeyboardandDrive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/murari/hackerrank/pairofsocks/PairOfSocks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/murari/hackerrank/pairofsocks/PairOfSocks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/murari/hackerrank/repeatedstring/RepeatedString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/murari/hackerrank/repeatedstring/RepeatedString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/murari/hackerrank/stringanagram/StringAnagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/murari/hackerrank/stringanagram/StringAnagram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/murari/hackerrank/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/murari/hackerrank/AppTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +45,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -127,6 +107,14 @@
       <option name="presentableId" value="Default" />
       <updated>1606352116415</updated>
     </task>
+    <task id="LOCAL-00001" summary="Corrected">
+      <created>1607205775630</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607205775630</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
